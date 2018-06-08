@@ -1,0 +1,19 @@
+#off,#Num1,#Num2,#Num3{
+  display: none;
+}
+#Question_1,#Question_2,#Question_3{
+  color:#D2691E;
+}
+#info{
+  padding-right: 67px;
+  padding-left: 250px;
+}
+.jumbotron{
+  text-align: center;
+  border-radius: 350px;
+  background-color: #778899;
+}
+
+.label{
+  text-align: center;
+}
